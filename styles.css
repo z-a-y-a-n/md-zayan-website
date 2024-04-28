@@ -1,0 +1,35 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: firebrick;
+    font-weight: 20;
+    text-align: left;
+    background-color: blanchedalmond;
+    border: 1.5px;
+    font-size: 35px;
+}
+
+h2 {
+    color: darkslateblue;
+}
+
+ul {
+    color: rgb(18, 110, 95);
+    padding: 30px;
+    list-style-type: disc;
+}
+
+ol {
+    color:rgb(95, 88, 234);
+    padding: 50px;
+    list-style-type: lower-alpha;
+}
+
+footer {
+    background-color: #333;
+    color: #04faf1;
+    text-align: center;
+    padding: 10px;
+    position: static;
+    bottom: 0;
+    width: 70%;
+}
